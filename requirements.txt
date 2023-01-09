@@ -1,0 +1,7 @@
+These are versions used
+
+python version -- 3.11
+flask version --- 2.2.2
+flask SQLAlchemy--3.0.2
+jinja2------------3.1.2
+SQLAlchemy--------1.4.45
