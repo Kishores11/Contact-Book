@@ -53,3 +53,7 @@ It contains form to search the contact details by getting input as number
 Sort Contact:
 url:http://127.0.0.1:5000/sort
 By clicking this link the contact table gets sorted alphabetically according to the contacts name
+
+Deployment:
+In order to deploy this project in your system just install pycharm then import the files that I have mentioned in the project.
+In my project I used SQlite data base you can the database as per your convenience.
